@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Me on Avolicious</title>
+    <link>https://verbose-space-succotash-jpxj5pqwwvx25w9q-1313.app.github.dev/categories/me/</link>
+    <description>Recent content in Me on Avolicious</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Jan 2025 09:00:00 +0000</lastBuildDate>
+    <atom:link href="https://verbose-space-succotash-jpxj5pqwwvx25w9q-1313.app.github.dev/categories/me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Blog Post</title>
+      <link>https://verbose-space-succotash-jpxj5pqwwvx25w9q-1313.app.github.dev/posts/2025-01-29-first_blog_post/</link>
+      <pubDate>Wed, 29 Jan 2025 09:00:00 +0000</pubDate>
+      <guid>https://verbose-space-succotash-jpxj5pqwwvx25w9q-1313.app.github.dev/posts/2025-01-29-first_blog_post/</guid>
+      <description>&lt;p&gt;Hey folks, I would like to start an experiment. This blog aka my new project is about improving my technical writing skills and should be used as a time capsule.&#xA;During my time as software developer, system administrator and whatsoever I&amp;rsquo;ve been confronted with difficulty and different problems, so this blog should keep&#xA;track of what I did and more preferably why.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-will-this-blog-be-mainly-about&#34;&gt;What will this blog be mainly about?&lt;/h2&gt;&#xA;&lt;p&gt;The goal is to showcase some interesting problems I&amp;rsquo;ve faced and write down how I solved this problem.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

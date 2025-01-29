@@ -1,4 +1,38 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://avolicious.github.com'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Avolicious'
 theme = "cactus"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Writings"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 4
+
+[[params.social]]
+  name = "github"
+  link = "https://github.com/avolicious"
+
+[[params.social]]
+  name = "email"
+  link = "avolicious@kog.tw" # no need for "mailto:" at the start
+
+[params]
+  mathjax = true
+  colortheme = "dark"
+  rss = true
+
+  description = "Rarely offline, frequently debugging, casual gamer, part-time firefighter (of production issues), full-time enthusiast for things that probably don’t scale - but are now in production."
+  mainSection = "posts"
+
+  showAllPostsOnHomePage = false # default
+  postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
