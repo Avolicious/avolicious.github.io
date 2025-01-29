@@ -20,4 +20,4 @@ Basically, if there’s a button that shouldn’t be pressed, a database that sh
 
 Outside of this chaos, I’m a casual gamer, part-time problem solver and full-time enthusiast for making things work (even if I have no idea why they do).
 
-Welcome to my corner of the internet—where everything mostly works.
+Welcome to my corner of the internet — where everything mostly works.
